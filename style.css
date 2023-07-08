@@ -48,6 +48,7 @@ li{
     width: 60px;
     height: 40px;
     margin-left: 80%;
+ 
     cursor: pointer;
 }
 
@@ -138,7 +139,7 @@ li{
         width: 200px;
         height: 200px;
     }
-
+   
     .section-page{
         padding-top: 1em;
         padding-bottom: 1em;
